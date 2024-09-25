@@ -6,7 +6,6 @@ ME llamo maria Jose, me gustan los libros, soy taciturna, animalista y no recuer
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/></a>
 <a href="https://github.com/100tfko/Get_next_line">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp"/></a>
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus_max.webp"/>
 <a href="https://github.com/100tfko/Fractol">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/fract-ol.webp"/></a>
 <a href="https://github.com/100tfko/Push_swap">
@@ -17,7 +16,6 @@ ME llamo maria Jose, me gustan los libros, soy taciturna, animalista y no recuer
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers.webp"/></a>
 <a href="https://github.com/100tfko/Minishell">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp"/></a>
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice_bonus_max.webp"/></a>
 
 
 
