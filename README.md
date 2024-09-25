@@ -21,5 +21,5 @@ ME llamo maria Jose, me gustan los libros, soy taciturna, animalista y no recuer
 <a href="https://github.com/100tfko/Net_practice">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice.webp"/></a>
 
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/lcuevas-?1337Badge=off&UM6P=off" alt="lcuevas-'s 42 stats" /></a>
 
