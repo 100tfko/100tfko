@@ -26,6 +26,8 @@ Me llamo María José, me gustan los libros, soy taciturna... <img src="https://
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp"/></a>
 <a href="https://github.com/100tfko/Net_practice">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice.webp"/></a>
+<a href="https://github.com/Pausanpi/Cub3D">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp"/></a>
 
 <h1></h1>
 
