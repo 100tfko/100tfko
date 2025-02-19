@@ -8,7 +8,7 @@ Me llamo maria Jose, me gustan los libros, soy taciturna, animalista y no recuer
 
 # 
 <a href="https://github.com/100tfko/Libft-v7"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp"> </a>
-<a href="https://github.com/100tfko/Ft-printf">
+<a href="https://github.com/100tfko/Ft_printf">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/></a>
 <a href="https://github.com/100tfko/Get_next_line">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp"/></a>
