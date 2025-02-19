@@ -1,6 +1,6 @@
 <a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20:00C9FF,80:92FE9D&height=140&section=header"></a>
 
-Me llamo maria Jose, me gustan los libros, soy taciturna, animalista y no recuerdo el resto
+Me llamo María José, me gustan los libros, soy taciturna... <img src="https://media1.tenor.com/m/J-pyw-gNGSMAAAAd/vegetariana-taciturna.gif" width="50px">
 
 # Lenguajes
 
