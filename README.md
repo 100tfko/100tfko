@@ -1,6 +1,17 @@
 <a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20:00C9FF,80:92FE9D&height=140&section=header"></a>
 
-Me llamo María José, me gustan los libros, soy taciturna... <img src="https://media1.tenor.com/m/J-pyw-gNGSMAAAAd/vegetariana-taciturna.gif" width="50px">
+<h1 align='center'>
+Hello there! This is Laureano writing
+</h1>
+
+## About me 💡
+
+<p>I am Laureano Cuevas. I used to describe myself as a scientist, but that is actively changing at the moment.
+That is because I am changing my career to the technological sector..</p>
+<p>For that, I am studying at 42 Malaga, where we develop technical skills making complete projects and need to work on our soft skills to survive. This is a repository of those projects, where I try to organize them and make it more comprehensible to anyone looking. </p>
+<p>I have a varied and wide formation and experience in other matters that, In my humble opinion, can be recycled for programming and add extra perspectives and values to my capabilities.
+Do not hesitate If you are interested in contacting me, can be here or refer to my email or my LinkedIn (https://www.linkedin.com/in/lcuevasmelendez/)  </p>
+
 
 <div align="center">
   <h3>Skills I'm Working On <img src="https://github.com/K1rsN7/K1rsN7/blob/main/Image/cat-coder.gif" width="30px"></h3>
