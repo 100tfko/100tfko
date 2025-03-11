@@ -2,9 +2,12 @@
 
 Me llamo María José, me gustan los libros, soy taciturna... <img src="https://media1.tenor.com/m/J-pyw-gNGSMAAAAd/vegetariana-taciturna.gif" width="50px">
 
-# Lenguajes
-
- <img src="https://skillicons.dev/icons?i=c"/>
+<div align="center">
+  <h3>Skills I'm Working On <img src="https://github.com/K1rsN7/K1rsN7/blob/main/Image/cat-coder.gif" width="30px"></h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,docker,python" alt="Skills Icons" />
+  </a>
+</div>
 
 # 
 <a href="https://github.com/100tfko/Libft-v7"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp"> </a>
