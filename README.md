@@ -1,8 +1,6 @@
-<a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20:00C9FF,80:92FE9D&height=140&section=header"></a>
-
-<h1 align='center'>
-Hello there! This is Laureano writing
-</h1>
+<p align="center">
+  <img src="img.png"/>
+</p>
 
 ## About me 💡
 
@@ -47,5 +45,3 @@ Do not hesitate If you are interested in contacting me, can be here or refer to 
 
 ### 42 Profile
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/lcuevas-?1337Badge=off&UM6P=off" alt="lcuevas-'s 42 stats" /></a>
-
-<a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90:92FE9D,10:00C9FF:&&height=140&section=footer"></a>
