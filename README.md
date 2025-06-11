@@ -41,7 +41,7 @@ Do not hesitate If you are interested in contacting me, can be here or refer to 
 <a href="https://github.com/Pausanpi/Cub3D">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp"/></a>
 
-<h1></h1>
+
 
 ## 42 Profile
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/lcuevas-?1337Badge=off&UM6P=off" alt="lcuevas-'s 42 stats" /></a>
