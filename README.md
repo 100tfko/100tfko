@@ -14,7 +14,7 @@ Do not hesitate If you are interested in contacting me, can be here or refer to 
 <div align="center">
   <h3>Skills I'm Working On <img src="https://github.com/K1rsN7/K1rsN7/blob/main/Image/cat-coder.gif" width="30px"></h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,docker,python" alt="Skills Icons" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,docker,python,mysql,postgres" alt="Skills Icons" />
   </a>
 </div>
 
