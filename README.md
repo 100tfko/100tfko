@@ -21,7 +21,7 @@ Do not hesitate If you are interested in contacting me, can be here or refer to 
 ## Projects
 
 - 📚 [42 Common Core](https://github.com/100tfko/42-Common-Core)
-- 🌐 42 Outer Core
+- 🌐 [42 Outer Core](https://github.com/100tfko/42-Outer-Core)
 - 🚀 Personal Projects
 - 🧪 Developing Ideas
 
