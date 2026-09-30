@@ -18,29 +18,12 @@ Do not hesitate If you are interested in contacting me, can be here or refer to 
   </a>
 </div>
 
-## 42 Projects Shortcuts
-<a href="https://github.com/100tfko/Libft-v7"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp"> </a>
-<a href="https://github.com/100tfko/Ft_printf">
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/></a>
-<a href="https://github.com/100tfko/Get_next_line">
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp"/></a>
-<a href="https://github.com/100tfko/Born2beroot">
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus_max.webp"/></a>
-<a href="https://github.com/100tfko/Fractol">
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/fract-ol.webp"/></a>
-<a href="https://github.com/100tfko/Push_swap">
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus_max.webp"/></a>
-<a href="https://github.com/100tfko/Pipex">
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/pipex_bonus_max.webp"/></a>
-<a href="https://github.com/100tfko/Philosophers">
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers.webp"/></a>
-<a href="https://github.com/100tfko/Minishell">
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp"/></a>
-<a href="https://github.com/100tfko/Net_practice">
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice.webp"/></a>
-<a href="https://github.com/Pausanpi/Cub3D">
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d.webp"/></a>
+## Projects
 
+- 📚 [42 Common Core](https://github.com/100tfko/42-Common-Core)
+- 🌐 42 Outer Core
+- 🚀 Personal Projects
+- 🧪 Developing Ideas
 
 
 ## 42 Profile
